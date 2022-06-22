@@ -22,4 +22,4 @@
 
 ![s1](https://user-images.githubusercontent.com/82106569/174936481-551ec97a-c990-407c-91ab-3cafa4062fdc.png)
 
-![s2](https://user-images.githubusercontent.com/82106569/174937014-2497cda0-caff-46f7-8e78-31536b9ab1cd.png)
+![s2](https://user-images.githubusercontent.com/82106569/174937189-a710e541-9dd6-45ce-9048-f29142d5a258.png)
