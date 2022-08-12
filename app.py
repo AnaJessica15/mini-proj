@@ -68,8 +68,8 @@ def main():
 
         if result == 0:
             st.error(
-                "Hello: " + fn +" "
-                'according to our aalculations, you will not get the loan from bank'
+                "Hello, " + fn +" "
+                'according to our calculations, you will not get the loan from bank'
             )
         else:
             st.success(
